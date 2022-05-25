@@ -1,3 +1,7 @@
 .pkl
 .svg
 .tif
+*.pkl
+*.log
+*.svg
+*.tif
